@@ -7,3 +7,5 @@ github sayfasına gidin
 compare pull request tıklayın
 merge deyin
 confirm merge yapın
+test2t
+
